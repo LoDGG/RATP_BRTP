@@ -1,0 +1,25 @@
+01La Défense
+01Esplanade de La Défense
+01Pont de Neuilly
+01Les Sablons
+01Porte Maillot 
+01Argentine
+01Charles de Gaulle - Étoile
+01George V
+01Franklin D. Roosevelt
+01Champs-Élysées - Clemenceau
+01Concorde
+01Tuileries
+01Palais-Royal - Musée du Louvre
+01Louvre - Rivoli
+01Châtelet
+01Hôtel de Ville
+01Saint-Paul
+01Bastille
+01Gare de Lyon
+01Reuilly - Diderot
+01Nation
+01Porte de Vincennes
+01Saint-Mandé
+01Bérault
+01Château de Vincennes
