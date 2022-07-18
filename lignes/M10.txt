@@ -1,13 +1,22 @@
 10Boulogne - Pont de Saint-Cloud
 10Boulogne - Jean Jaurès
+v
 10Michel-Ange - Molitor
+v
 10Chardon-Lagache
+v
 10Mirabeau
+v
 10Javel - André Citroën
+v
 10Église d'Auteuil
+v
 10Michel-Ange - Auteuil
+v
 10Porte d'Auteuil
+v
 10Boulogne - Jean Jaurès
+
 10Javel - André Citroën
 10Charles Michels
 10Avenue Émile-Zola
